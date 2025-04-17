@@ -3,4 +3,7 @@ project(OOPteamProject)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(OOPteamProject main.cpp)
+add_executable(OOPteamProject main.cpp
+        Set.cpp
+        Employee.cpp
+        AuthManager.cpp)

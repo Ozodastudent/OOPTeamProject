@@ -1,0 +1,13 @@
+# ninja log v5
+17	743	7663132032401244	CMakeFiles/OOPteamProject.dir/main.cpp.obj	fa7395edac72c56a
+864	1079	7663133977945700	OOPteamProject.exe	1f1d539dee8d137b
+36	595	7663133973177152	CMakeFiles/OOPteamProject.dir/Employee.cpp.obj	bd2f562dc7b42051
+28	863	7663133975849511	CMakeFiles/OOPteamProject.dir/Set.cpp.obj	3a26476b3cb6db35
+13	594	7665671380763995	CMakeFiles/OOPteamProject.dir/main.cpp.obj	fa7395edac72c56a
+17	608	7665671380896058	CMakeFiles/OOPteamProject.dir/AuthManager.cpp.obj	30d7e3052aaba887
+608	904	7665671383811571	OOPteamProject.exe	e6a6fedaeaa7166c
+18	370	7665676382224949	CMakeFiles/OOPteamProject.dir/Employee.cpp.obj	bd2f562dc7b42051
+7	563	7665676384144154	CMakeFiles/OOPteamProject.dir/main.cpp.obj	fa7395edac72c56a
+13	564	7665676384154129	CMakeFiles/OOPteamProject.dir/Set.cpp.obj	3a26476b3cb6db35
+24	579	7665676384303725	CMakeFiles/OOPteamProject.dir/AuthManager.cpp.obj	30d7e3052aaba887
+579	714	7665676385611429	OOPteamProject.exe	e6a6fedaeaa7166c
